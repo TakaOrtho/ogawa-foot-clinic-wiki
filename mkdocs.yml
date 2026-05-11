@@ -1,0 +1,110 @@
+site_name: 足の外科 学習ウィキ
+site_description: 足関節・足部疾患の病態・治療・看護・リハビリ・患者向け情報をまとめた教育サイト
+site_author: Takahisa Ogawa, MD, MPH, PhD
+copyright: Copyright &copy; 2026 Takahisa Ogawa
+
+theme:
+  name: material
+  language: ja
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: ダークモードに切り替え
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: ライトモードに切り替え
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Noto Sans JP
+    code: JetBrains Mono
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search:
+      lang:
+        - ja
+        - en
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/
+  generator: false
+
+nav:
+  - ホーム: index.md
+  - 医療従事者向け:
+      - clinical/index.md
+      - 足関節不安定症:
+          - 概要・病態・診断・治療: clinical/ankle-instability/index.md
+          - 看護師向け: clinical/ankle-instability/nursing.md
+          - 理学療法士向け: clinical/ankle-instability/rehab.md
+      - 外側側副靱帯損傷:
+          - 概要・病態・診断・治療: clinical/lateral-ligament-injury/index.md
+          - 看護師向け: clinical/lateral-ligament-injury/nursing.md
+          - 理学療法士向け: clinical/lateral-ligament-injury/rehab.md
+      - 外反母趾:
+          - 概要・病態・診断・治療: clinical/hallux-valgus/index.md
+          - 看護師向け: clinical/hallux-valgus/nursing.md
+          - 理学療法士向け: clinical/hallux-valgus/rehab.md
+      - 変形性足関節症:
+          - 概要・病態・診断・治療: clinical/ankle-osteoarthritis/index.md
+          - 看護師向け: clinical/ankle-osteoarthritis/nursing.md
+          - 理学療法士向け: clinical/ankle-osteoarthritis/rehab.md
+  - 患者さん向け:
+      - patient/index.md
+      - 足関節不安定症: patient/ankle-instability.md
+      - 外側側副靱帯損傷: patient/lateral-ligament-injury.md
+      - 外反母趾: patient/hallux-valgus.md
+      - 変形性足関節症: patient/ankle-osteoarthritis.md
+  - 免責事項: disclaimer.md

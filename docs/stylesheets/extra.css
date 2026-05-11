@@ -1,0 +1,56 @@
+/* ============================================================
+ * Brand stylesheet — 紺アクセント (Ogawa Foot Clinic Wiki)
+ * ============================================================ */
+
+:root {
+  --md-primary-fg-color: #1F3A5F;            /* 紺 */
+  --md-primary-fg-color--light: #2B4A75;
+  --md-primary-fg-color--dark: #142840;
+  --md-accent-fg-color: #1F3A5F;
+  --md-typeset-a-color: #1F3A5F;
+}
+
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #FFFFFF;
+  --md-default-fg-color: #1A1A1A;
+  --md-typeset-color: #1A1A1A;
+}
+
+/* h2 下に紺の下線 */
+.md-typeset h2 {
+  border-bottom: 2px solid var(--md-primary-fg-color);
+  padding-bottom: 0.3rem;
+}
+
+/* admonition (callout) を紺基調に */
+.md-typeset .admonition,
+.md-typeset details {
+  border-left-color: var(--md-primary-fg-color);
+}
+
+/* テーブルの見出しを紺背景 */
+.md-typeset table:not([class]) th {
+  background-color: var(--md-primary-fg-color);
+  color: #FFFFFF;
+}
+
+/* 警告系のみエンジ (副アクセント) */
+.md-typeset .admonition.warning,
+.md-typeset details.warning,
+.md-typeset .admonition.danger,
+.md-typeset details.danger {
+  border-left-color: #9B2335;
+}
+
+/* フッター */
+.md-footer {
+  background-color: var(--md-primary-fg-color--dark);
+}
+
+/* ヘッダー */
+.md-header {
+  background-color: var(--md-primary-fg-color);
+}
+.md-tabs {
+  background-color: var(--md-primary-fg-color--light);
+}
