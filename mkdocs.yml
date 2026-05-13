@@ -1,6 +1,10 @@
 site_name: 足の外科 学習ウィキ
 site_description: 足関節・足部疾患の病態・治療・看護・リハビリ・患者向け情報をまとめた教育サイト
 site_author: Takahisa Ogawa, MD, MPH, PhD
+site_url: https://takaortho.github.io/ogawa-foot-clinic-wiki/
+repo_url: https://github.com/TakaOrtho/ogawa-foot-clinic-wiki
+repo_name: TakaOrtho/ogawa-foot-clinic-wiki
+edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2026 Takahisa Ogawa
 
 theme:

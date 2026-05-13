@@ -1,11 +1,11 @@
 # 足の外科 学習ウィキ（Ogawa Foot Clinic Wiki）
 
-[![Deploy](https://github.com/USERNAME/ogawa-foot-clinic-wiki/actions/workflows/deploy.yml/badge.svg)](https://github.com/USERNAME/ogawa-foot-clinic-wiki/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/TakaOrtho/ogawa-foot-clinic-wiki/actions/workflows/deploy.yml/badge.svg)](https://github.com/TakaOrtho/ogawa-foot-clinic-wiki/actions/workflows/deploy.yml)
 
 足関節・足部疾患の **病態・治療・看護・リハビリ・患者向け情報** をまとめた教育サイトのリポジトリです。
 看護師・理学療法士・研修医・患者さんがそれぞれの目的に応じて参照できるよう、対象別ページに分けて構成しています。
 
-公開サイト: <https://USERNAME.github.io/ogawa-foot-clinic-wiki/>
+公開サイト: <https://takaortho.github.io/ogawa-foot-clinic-wiki/>
 
 ---
 
@@ -30,7 +30,7 @@
 前提: Python 3.11 以上、git。
 
 ```bash
-git clone https://github.com/USERNAME/ogawa-foot-clinic-wiki.git
+git clone https://github.com/TakaOrtho/ogawa-foot-clinic-wiki.git
 cd ogawa-foot-clinic-wiki
 pip install -r requirements.txt
 mkdocs serve
