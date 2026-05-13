@@ -12,33 +12,33 @@
 
 <div class="grid cards" markdown>
 
-- :material-rotate-3d-variant: **足関節不安定症（足首がぐらぐらする）**
+- :material-rotate-3d-variant: **足関節不安定症・足首の捻挫**
 
     ---
-    捻挫を繰り返して足首が不安定になる病気。手術と術後の生活について。
+    捻挫と「足首がぐらつく病気」は同じスペクトラム。当院は関節鏡で **翌日歩行・6週復帰** が目安。
 
     [ページを見る →](ankle-instability.md)
-
-- :material-bandage: **外側側副靱帯損傷（足首の捻挫）**
-
-    ---
-    足首をひねったときに切れる靱帯のけが。治し方の選択肢。
-
-    [ページを見る →](lateral-ligament-injury.md)
 
 - :material-foot-print: **外反母趾**
 
     ---
-    足の親指が小指側に曲がる変形。靴と手術の話。
+    親指の付け根が「く」の字に曲がる変形。手術は MICA + 必要に応じて DMMO。
 
     [ページを見る →](hallux-valgus.md)
 
 - :material-bone: **変形性足関節症**
 
     ---
-    年齢や過去のけがで足首の軟骨がすり減る病気。手術の種類。
+    過去のけがで足首の軟骨がすり減る病気。手術は3種類（骨切り・人工関節・固定）。
 
     [ページを見る →](ankle-osteoarthritis.md)
+
+- :material-foot-print-outline: **扁平足**
+
+    ---
+    土踏まずが落ちる病気。やわらかいタイプは靱帯再建、硬いタイプは骨切り or 固定。
+
+    [ページを見る →](flatfoot.md)
 
 </div>
 

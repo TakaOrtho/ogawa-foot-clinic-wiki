@@ -33,17 +33,17 @@
 
 ---
 
-## 取り扱う疾患（初回リリース）
+## 取り扱う疾患（4疾患）
 
 | 疾患 | 医療従事者向け | 患者さん向け |
 |------|:---:|:---:|
-| 足関節不安定症 | [✓](clinical/ankle-instability/index.md) | [✓](patient/ankle-instability.md) |
-| 外側側副靱帯損傷 | [✓](clinical/lateral-ligament-injury/index.md) | [✓](patient/lateral-ligament-injury.md) |
+| 足関節不安定症（外側側副靱帯損傷含む） | [✓](clinical/ankle-instability/index.md) | [✓](patient/ankle-instability.md) |
 | 外反母趾 | [✓](clinical/hallux-valgus/index.md) | [✓](patient/hallux-valgus.md) |
 | 変形性足関節症 | [✓](clinical/ankle-osteoarthritis/index.md) | [✓](patient/ankle-osteoarthritis.md) |
+| 扁平足 | [✓](clinical/flatfoot/index.md) | [✓](patient/flatfoot.md) |
 
-!!! note "順次充実"
-    初版は **足関節不安定症** を完全版、他疾患は骨子のみです。臨床現場のフィードバックを踏まえて段階的に拡充します。
+!!! note "コンテンツ"
+    全4疾患について、医療従事者向け（病態・診断 / 保存治療 / 手術治療と後療法）と患者向けを完全版で提供しています。臨床現場のフィードバックを踏まえて継続的に更新します。
 
 ---
 

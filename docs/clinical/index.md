@@ -12,41 +12,45 @@
 | **保存治療** | 運動療法、装具、薬物、患者教育、手術へ進む判断 |
 | **手術治療と後療法** | 適応、術式選択、術式詳細、合併症、周術期管理、術後観察、フェーズ別リハビリ、退院指導、復職・復帰判定 |
 
-## 対象疾患
+## 対象疾患（4疾患）
 
 <div class="grid cards" markdown>
 
-- :material-rotate-3d-variant: **足関節不安定症** （Chronic Ankle Instability）
+- :material-rotate-3d-variant: **足関節不安定症（外側側副靱帯損傷含む）**
 
     ---
+    急性捻挫から慢性不安定症までを一連の連続病態として記述。
     [概要](ankle-instability/index.md) ／
     [病態・診断](ankle-instability/pathology.md) ／
     [保存治療](ankle-instability/conservative.md) ／
     [手術治療と後療法](ankle-instability/surgical.md)
 
-- :material-bandage: **外側側副靱帯損傷** （Lateral Ankle Ligament Injury）
+- :material-foot-print: **外反母趾**（Hallux Valgus）
 
     ---
-    [概要](lateral-ligament-injury/index.md) ／
-    [病態・診断](lateral-ligament-injury/pathology.md) ／
-    [保存治療](lateral-ligament-injury/conservative.md) ／
-    [手術治療と後療法](lateral-ligament-injury/surgical.md)
-
-- :material-foot-print: **外反母趾** （Hallux Valgus）
-
-    ---
+    MICA + DMMO を中心に当院標準プロトコル。
     [概要](hallux-valgus/index.md) ／
     [病態・診断](hallux-valgus/pathology.md) ／
     [保存治療](hallux-valgus/conservative.md) ／
     [手術治療と後療法](hallux-valgus/surgical.md)
 
-- :material-bone: **変形性足関節症** （Ankle Osteoarthritis）
+- :material-bone: **変形性足関節症**（Ankle Osteoarthritis）
 
     ---
+    推奨順 = 骨切り → TAA → 関節固定。
     [概要](ankle-osteoarthritis/index.md) ／
     [病態・診断](ankle-osteoarthritis/pathology.md) ／
     [保存治療](ankle-osteoarthritis/conservative.md) ／
     [手術治療と後療法](ankle-osteoarthritis/surgical.md)
+
+- :material-foot-print-outline: **扁平足**（Adult Acquired Flatfoot Deformity）
+
+    ---
+    Flexible は靱帯再建、Rigid は骨切り/固定。共通後療法 6週非荷重+3か月サポーター。
+    [概要](flatfoot/index.md) ／
+    [病態・診断](flatfoot/pathology.md) ／
+    [保存治療](flatfoot/conservative.md) ／
+    [手術治療と後療法](flatfoot/surgical.md)
 
 </div>
 

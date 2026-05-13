@@ -89,16 +89,11 @@ nav:
   - ホーム: index.md
   - 医療従事者向け:
       - clinical/index.md
-      - 足関節不安定症:
+      - 足関節不安定症（外側側副靱帯損傷含む）:
           - 概要: clinical/ankle-instability/index.md
           - 病態・診断: clinical/ankle-instability/pathology.md
           - 保存治療: clinical/ankle-instability/conservative.md
           - 手術治療と後療法: clinical/ankle-instability/surgical.md
-      - 外側側副靱帯損傷:
-          - 概要: clinical/lateral-ligament-injury/index.md
-          - 病態・診断: clinical/lateral-ligament-injury/pathology.md
-          - 保存治療: clinical/lateral-ligament-injury/conservative.md
-          - 手術治療と後療法: clinical/lateral-ligament-injury/surgical.md
       - 外反母趾:
           - 概要: clinical/hallux-valgus/index.md
           - 病態・診断: clinical/hallux-valgus/pathology.md
@@ -109,10 +104,15 @@ nav:
           - 病態・診断: clinical/ankle-osteoarthritis/pathology.md
           - 保存治療: clinical/ankle-osteoarthritis/conservative.md
           - 手術治療と後療法: clinical/ankle-osteoarthritis/surgical.md
+      - 扁平足:
+          - 概要: clinical/flatfoot/index.md
+          - 病態・診断: clinical/flatfoot/pathology.md
+          - 保存治療: clinical/flatfoot/conservative.md
+          - 手術治療と後療法: clinical/flatfoot/surgical.md
   - 患者さん向け:
       - patient/index.md
-      - 足関節不安定症: patient/ankle-instability.md
-      - 外側側副靱帯損傷: patient/lateral-ligament-injury.md
+      - 足関節不安定症・足首の捻挫: patient/ankle-instability.md
       - 外反母趾: patient/hallux-valgus.md
       - 変形性足関節症: patient/ankle-osteoarthritis.md
+      - 扁平足: patient/flatfoot.md
   - 免責事項: disclaimer.md
