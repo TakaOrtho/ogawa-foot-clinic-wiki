@@ -9,7 +9,7 @@ deadline: null
 repo: https://github.com/TakaOrtho/ogawa-foot-clinic-wiki
 site: https://takaortho.github.io/ogawa-foot-clinic-wiki/
 local_path: projects/clinical/ogawa-foot-clinic-wiki/
-structure_version: 5  # 2026-05-13: フェーズ1磨き込み（アイコンバグ修正、AI生成シェーマ画像4枚、ヒーロー+CTA、スマホレスポンシブCSS、患者向け4ページ会話調リライト、Q&A化、症状ベース探索）
+structure_version: 6  # 2026-05-13: フェーズ2a（解剖図・術式図 8枚追加、SEO下地：robots.txt、OGP画像、site_description強化、keywords追加）
 ---
 
 # PRJ-018 足の外科 学習ウィキ
@@ -160,17 +160,28 @@ ogawa-foot-clinic-wiki/
 
 ## 次の一歩（優先順）
 
-1. 看護師からのフィードバック収集（4疾患すべての読みやすさ・抜け・実臨床との整合）
-2. 図版・シェーマの作成（footprint、解剖図、術式模式図、後療法スケジュール図）
-3. **症例ベースの読み物追加**（実症例ベースの匿名化症例レポート、各疾患1–2例）
-4. 用語集・略語集ページの新設（PTT, MICA, DMMO, SMOT, TAA, MDCO, AAFD など）
-5. 検索エンジンへの登録（Google Search Console、Bing Webmaster）
-6. アクセス解析の導入（GA4 or Plausible）
-7. （オプション）独自ドメイン化（例: `foot.ogawa-md.jp`）
-8. （オプション）英語版の整備
+1. **Google Search Console / Bing Webmaster の所有権確認**（ユーザー操作 → 認証コード共有 → 私が `docs/` に HTML ファイルを配置 → サイトマップ送信）
+2. 看護師からのフィードバック収集（4疾患すべての読みやすさ・抜け・実臨床との整合）
+3. 用語集・略語集ページの新設（PTT, MICA, DMMO, SMOT, TAA, MDCO, AAFD など）
+4. 症例ベースの読み物追加（匿名化症例レポート）
+5. アクセス解析の導入（Plausible / GA4）
+6. （オプション）独自ドメイン化、英語版の整備
+
+## Google / Bing Search Console 登録手順（ユーザー操作）
+
+1. <https://search.google.com/search-console> にアクセス
+2. URL プレフィックスで `https://takaortho.github.io/ogawa-foot-clinic-wiki/` を登録
+3. 所有権確認 → 「HTML ファイル」を選択 → `google-XXXXXXXX.html` をダウンロード
+4. ファイルを AI 秘書に渡す → `docs/` 直下に配置 → commit & push
+5. 1-2 分で GitHub Pages にデプロイされる → Search Console で「確認」をクリック
+6. サイトマップ送信: `sitemap.xml` を Search Console の「サイトマップ」から送信
+7. 同様に <https://www.bing.com/webmasters> でも実施（XML サイトマップを送るだけでも可）
+
+`docs/robots.txt` は配置済み。サイトマップは MkDocs が自動生成しています。
 
 ## 履歴
 
+- **2026-05-13**: **フェーズ2a 図解充実 + SEO下地（structure v6）** — 解剖図・術式図 8枚追加（前足部ヒール靴、関節鏡視下 Broström、松葉杖+非荷重、足OA 3術式比較、DMMO、MICA chevron、PTT走行、階段昇降ルール）。患者向け4ページ・医療従事者向け4ページの該当箇所に挿入。**SEO下地整備**：`docs/robots.txt` 作成、`mkdocs.yml` の site_description 強化、OGP 画像（hero-foot-anatomy.png）と keywords 配列を追加。GitHub Search Console / Bing 認証ファイルは次セッションで配置予定。18ファイル変更、+75/-2 行
 - **2026-05-13**: **フェーズ1 サイト磨き込み（structure v5）** — レビュー意見を反映：(1) `:material-foot-print-outline:` アイコン表示バグを `:material-shoe-print:` に修正、(2) AI生成シェーマ画像4枚（hero foot anatomy / hallux valgus / ankle ligaments / flatfoot）を `docs/assets/images/` に配置・各患者ページに挿入、(3) `docs/stylesheets/extra.css` にタイポグラフィ仕上げ・スマホレスポンシブ（≤480px, ≤768px）・ヒーロー/CTA カードCSS・患者intro callout を追加、(4) `docs/index.md` をヒーロー画像+患者/医療者の大きなCTAカードに改修、(5) `docs/patient/index.md` を会話調 + 症状から探す + 診察室で聞きたい質問メモ Q&A化、(6) 患者向け4ページ全文を会話調リライト（症状ベースサマリー、強い表現の緩和、危険サインに「なぜ大事か」追記、FAQ拡充）。医療従事者向けは現状のマニュアル調を維持。12ファイル変更、+751/-391行
 - **2026-05-13**: **疾患リスト再編（structure v4）** — 外側側副靱帯損傷を足関節不安定症に統合（同一スペクトラム）、**扁平足を新規追加**。最終4疾患構成（足関節不安定症・外反母趾・変形性足関節症・扁平足）に。3疾患を完全版化（足関節不安定症統合版：関節鏡視下 Broström・翌日歩行・6週復帰／変形性足関節症：推奨順=骨切り→TAA→固定／扁平足：Flexible=靱帯再建、Rigid=骨切り、共通=6週非荷重+3か月サポーター）。24ファイル変更、+1529/-885行
 - **2026-05-13**: **構成リファクタ（structure v3）** — 5サブカテゴリ → 3サブカテゴリへ統合。病態+診断 → `pathology.md`、手術+後療法 → `surgical.md`。患者の臨床思考フローに沿う形へ
