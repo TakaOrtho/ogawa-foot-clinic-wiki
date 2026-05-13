@@ -9,7 +9,7 @@ deadline: null
 repo: https://github.com/TakaOrtho/ogawa-foot-clinic-wiki
 site: https://takaortho.github.io/ogawa-foot-clinic-wiki/
 local_path: projects/clinical/ogawa-foot-clinic-wiki/
-structure_version: 4  # 2026-05-13: 疾患リスト再編（外側側副靱帯損傷を足関節不安定症に統合、扁平足新規追加）。最終4疾患構成 + 全疾患完全版化
+structure_version: 5  # 2026-05-13: フェーズ1磨き込み（アイコンバグ修正、AI生成シェーマ画像4枚、ヒーロー+CTA、スマホレスポンシブCSS、患者向け4ページ会話調リライト、Q&A化、症状ベース探索）
 ---
 
 # PRJ-018 足の外科 学習ウィキ
@@ -171,6 +171,7 @@ ogawa-foot-clinic-wiki/
 
 ## 履歴
 
+- **2026-05-13**: **フェーズ1 サイト磨き込み（structure v5）** — レビュー意見を反映：(1) `:material-foot-print-outline:` アイコン表示バグを `:material-shoe-print:` に修正、(2) AI生成シェーマ画像4枚（hero foot anatomy / hallux valgus / ankle ligaments / flatfoot）を `docs/assets/images/` に配置・各患者ページに挿入、(3) `docs/stylesheets/extra.css` にタイポグラフィ仕上げ・スマホレスポンシブ（≤480px, ≤768px）・ヒーロー/CTA カードCSS・患者intro callout を追加、(4) `docs/index.md` をヒーロー画像+患者/医療者の大きなCTAカードに改修、(5) `docs/patient/index.md` を会話調 + 症状から探す + 診察室で聞きたい質問メモ Q&A化、(6) 患者向け4ページ全文を会話調リライト（症状ベースサマリー、強い表現の緩和、危険サインに「なぜ大事か」追記、FAQ拡充）。医療従事者向けは現状のマニュアル調を維持。12ファイル変更、+751/-391行
 - **2026-05-13**: **疾患リスト再編（structure v4）** — 外側側副靱帯損傷を足関節不安定症に統合（同一スペクトラム）、**扁平足を新規追加**。最終4疾患構成（足関節不安定症・外反母趾・変形性足関節症・扁平足）に。3疾患を完全版化（足関節不安定症統合版：関節鏡視下 Broström・翌日歩行・6週復帰／変形性足関節症：推奨順=骨切り→TAA→固定／扁平足：Flexible=靱帯再建、Rigid=骨切り、共通=6週非荷重+3か月サポーター）。24ファイル変更、+1529/-885行
 - **2026-05-13**: **構成リファクタ（structure v3）** — 5サブカテゴリ → 3サブカテゴリへ統合。病態+診断 → `pathology.md`、手術+後療法 → `surgical.md`。患者の臨床思考フローに沿う形へ
 - **2026-05-13**: **外反母趾を完全版化** — 当院臨床ノウハウ（MICA + DMMO、弾性包帯圧迫、専用サンダル6週、翌日からMTP-ROM、抜糸10–14日、シャワー可否）を全5サブカテゴリ + 患者向けに反映
