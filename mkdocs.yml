@@ -91,32 +91,24 @@ nav:
       - clinical/index.md
       - 足関節不安定症:
           - 概要: clinical/ankle-instability/index.md
-          - 病態: clinical/ankle-instability/pathology.md
-          - 診断: clinical/ankle-instability/diagnosis.md
+          - 病態・診断: clinical/ankle-instability/pathology.md
           - 保存治療: clinical/ankle-instability/conservative.md
-          - 手術治療: clinical/ankle-instability/surgical.md
-          - 後療法: clinical/ankle-instability/postop.md
+          - 手術治療と後療法: clinical/ankle-instability/surgical.md
       - 外側側副靱帯損傷:
           - 概要: clinical/lateral-ligament-injury/index.md
-          - 病態: clinical/lateral-ligament-injury/pathology.md
-          - 診断: clinical/lateral-ligament-injury/diagnosis.md
+          - 病態・診断: clinical/lateral-ligament-injury/pathology.md
           - 保存治療: clinical/lateral-ligament-injury/conservative.md
-          - 手術治療: clinical/lateral-ligament-injury/surgical.md
-          - 後療法: clinical/lateral-ligament-injury/postop.md
+          - 手術治療と後療法: clinical/lateral-ligament-injury/surgical.md
       - 外反母趾:
           - 概要: clinical/hallux-valgus/index.md
-          - 病態: clinical/hallux-valgus/pathology.md
-          - 診断: clinical/hallux-valgus/diagnosis.md
+          - 病態・診断: clinical/hallux-valgus/pathology.md
           - 保存治療: clinical/hallux-valgus/conservative.md
-          - 手術治療: clinical/hallux-valgus/surgical.md
-          - 後療法: clinical/hallux-valgus/postop.md
+          - 手術治療と後療法: clinical/hallux-valgus/surgical.md
       - 変形性足関節症:
           - 概要: clinical/ankle-osteoarthritis/index.md
-          - 病態: clinical/ankle-osteoarthritis/pathology.md
-          - 診断: clinical/ankle-osteoarthritis/diagnosis.md
+          - 病態・診断: clinical/ankle-osteoarthritis/pathology.md
           - 保存治療: clinical/ankle-osteoarthritis/conservative.md
-          - 手術治療: clinical/ankle-osteoarthritis/surgical.md
-          - 後療法: clinical/ankle-osteoarthritis/postop.md
+          - 手術治療と後療法: clinical/ankle-osteoarthritis/surgical.md
   - 患者さん向け:
       - patient/index.md
       - 足関節不安定症: patient/ankle-instability.md

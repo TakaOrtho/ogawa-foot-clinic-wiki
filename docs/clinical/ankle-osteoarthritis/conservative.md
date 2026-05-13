@@ -44,4 +44,4 @@
 
 ## 関連
 
-- 前: [診断](diagnosis.md) / 次: [手術治療 →](surgical.md)
+- 前: [診断](pathology.md) / 次: [手術治療 →](surgical.md)

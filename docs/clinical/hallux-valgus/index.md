@@ -8,11 +8,9 @@
 
 ## サブページ
 
-1. [病態](pathology.md)
-2. [診断](diagnosis.md)
-3. [保存治療](conservative.md)
-4. [手術治療](surgical.md)
-5. [後療法](postop.md)
+1. [病態・診断](pathology.md)
+2. [保存治療](conservative.md)
+3. [手術治療と後療法](surgical.md)
 
 ## 患者さん向け
 
