@@ -37,6 +37,11 @@
 
 ## 3. 当院標準術式：関節鏡視下 Broström
 
+<figure class="figure-schema" markdown>
+![関節鏡視下 Broström 概念図](../../assets/images/arthroscopic-brostrom.png)
+<figcaption>前内側・前外側の2ポータルから関節鏡と器具を挿入。関節内合併病変の同時処置 + suture anchor による ATFL 修復が可能。</figcaption>
+</figure>
+
 ### 3-1. なぜ関節鏡視下か
 
 - **小皮切**（数 mm のポータルのみ）で整容に優れる

@@ -57,6 +57,11 @@
 
 進行度・年齢・活動性・ご希望によって、3つの中から選びます。当院では、できるだけ **ご自身の関節を残せる手術から順に** 検討します。
 
+<figure class="figure-schema" markdown>
+![変形性足関節症の3術式比較](../assets/images/ankle-oa-3-procedures.png)
+<figcaption>左：骨切り術（プレートで固定し、傾きを直す）／中央：人工足関節置換術（人工部品で関節を置き換える）／右：関節固定術（スクリューで骨同士をくっつける）</figcaption>
+</figure>
+
 ```mermaid
 flowchart TB
     A[手術を検討] --> B{軟骨はある程度<br/>残っているか?}

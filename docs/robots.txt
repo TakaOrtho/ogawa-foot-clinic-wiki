@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://takaortho.github.io/ogawa-foot-clinic-wiki/sitemap.xml

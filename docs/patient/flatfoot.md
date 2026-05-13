@@ -164,6 +164,11 @@ gantt
 
 ### 6-2. 6週間非荷重の準備（重要）
 
+<figure class="figure-schema" markdown>
+![松葉杖を使った非荷重歩行のイメージ](../assets/images/crutches-nonweightbearing.png)
+<figcaption>手術した足を完全に浮かせ、松葉杖2本で体重を支えて移動します。慣れるまで少し練習が必要です。</figcaption>
+</figure>
+
 非荷重の期間が長いので、**手術前に生活環境の準備** が大切です。
 
 - 自宅内の手すり・段差の確認

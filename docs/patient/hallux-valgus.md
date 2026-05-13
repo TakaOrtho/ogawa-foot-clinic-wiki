@@ -126,6 +126,11 @@
 
 ### 6-4. 履物のスケジュール
 
+<figure class="figure-schema" markdown>
+![前足部ヒール靴のイメージ](../assets/images/forefoot-offloading-shoe.png)
+<figcaption>術後6週間使用する「専用サンダル（前足部ヒール靴）」。かかとが厚く、つま先側は浮いているため、前足部に体重がかかりません。</figcaption>
+</figure>
+
 ```mermaid
 gantt
     title 履物のスケジュール

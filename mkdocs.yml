@@ -1,5 +1,5 @@
 site_name: 足の外科 学習ウィキ
-site_description: 足関節・足部疾患の病態・治療・看護・リハビリ・患者向け情報をまとめた教育サイト
+site_description: 足関節・足部疾患（足関節不安定症・外反母趾・変形性足関節症・扁平足）の病態・診断・保存治療・手術・後療法を、患者さんと医療従事者の双方にわかりやすく解説する教育サイト。整形外科専門医（足の外科）が編集。
 site_author: Takahisa Ogawa, MD, MPH, PhD
 site_url: https://takaortho.github.io/ogawa-foot-clinic-wiki/
 repo_url: https://github.com/TakaOrtho/ogawa-foot-clinic-wiki
@@ -82,8 +82,21 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/
+      link: https://github.com/TakaOrtho/ogawa-foot-clinic-wiki
   generator: false
+  # OGP / SEO 用メタ情報
+  og_image: https://takaortho.github.io/ogawa-foot-clinic-wiki/assets/images/hero-foot-anatomy.png
+  keywords:
+    - 足の外科
+    - 足関節不安定症
+    - 外反母趾
+    - 変形性足関節症
+    - 扁平足
+    - MICA
+    - DMMO
+    - 関節鏡視下手術
+    - 人工足関節
+    - 足関節固定術
 
 nav:
   - ホーム: index.md

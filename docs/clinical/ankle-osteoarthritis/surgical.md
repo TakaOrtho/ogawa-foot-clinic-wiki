@@ -14,6 +14,11 @@
 
 ## 1. 適応・術式選択
 
+<figure class="figure-schema" markdown>
+![変形性足関節症の3術式比較](../../assets/images/ankle-oa-3-procedures.png)
+<figcaption>左：遠位脛骨骨切り術（SMOT、プレート固定で軸補正）／中央：人工足関節置換術（TAA、可動性温存）／右：関節固定術（スクリュー固定、確実な除痛）</figcaption>
+</figure>
+
 ### 1-1. 選択軸
 
 | 軸 | 評価のポイント |

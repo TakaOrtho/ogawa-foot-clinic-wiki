@@ -96,6 +96,11 @@ flowchart LR
 
 ## 4. 当院の手術：関節鏡視下 Broström
 
+<figure class="figure-schema" markdown>
+![関節鏡視下 Broström 手術のイメージ](../assets/images/arthroscopic-brostrom.png)
+<figcaption>足首の前側に数mmの小さな穴を2か所だけ作り、カメラ（関節鏡）と専用の細い器具を入れて手術します。</figcaption>
+</figure>
+
 ### 4-1. どんな手術？
 
 - 数mmの小さな穴から **カメラ（関節鏡）** を入れて、ゆるんだ靱帯を縫い縮めて固定します
@@ -171,6 +176,17 @@ gantt
 - 足の指は動かす運動を意識すると、血のめぐりが保たれます
 - **タバコは創傷治癒に大きく影響します** ので、術前後はぜひ控えてください
 - 抗血栓薬（血をサラサラにする薬）など、休んでいた薬の再開は **医師の指示に従って** ください
+
+### 5-5. 階段の上り下り（覚えておくと安全）
+
+<figure class="figure-schema" markdown>
+![階段昇降のルール](../assets/images/stair-rule.png)
+<figcaption>左：上りは「健側（けがをしていない方）から」　／　右：下りは「患側（手術した方）から」　— 「Good goes up, Bad goes down」と覚えてください。</figcaption>
+</figure>
+
+- **上り**：けがをしていないほうの足から先に出します
+- **下り**：手術したほうの足から先に下ろします
+- どちらも **手すりにつかまる** ことを忘れずに
 
 ---
 

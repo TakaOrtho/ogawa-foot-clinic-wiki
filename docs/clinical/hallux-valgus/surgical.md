@@ -37,6 +37,11 @@
 - 透視下に整復、スクリュー（headless compression screw 2 本）で固定
 - 必要に応じて Akin 骨切り（母趾基節骨）併施
 
+<figure class="figure-schema" markdown>
+![MICA chevron 骨切り＋Akin 模式図](../../assets/images/mica-chevron.png)
+<figcaption>第1中足骨頸部の chevron 骨切り（V字）+ 母趾基節骨の Akin closing wedge。透視下に headless compression screw 2本で固定。</figcaption>
+</figure>
+
 ### 3-2. 手技ステップ
 
 | ステップ | 詳細 |
@@ -78,6 +83,11 @@
 - 第2・3（必要なら第4も） **中足骨頸部** を経皮的に骨切り
 - **固定はしない**（self-stabilizing）
 - 骨切り部は荷重で自然に整復され、骨癒合する
+
+<figure class="figure-schema" markdown>
+![DMMO 中足骨頸部骨切り模式図](../../assets/images/dmmo-osteotomy.png)
+<figcaption>中足骨頸部を経皮的に斜めに骨切り（背側→底側 約45°）。固定はせず、荷重で自然整復・骨癒合する。</figcaption>
+</figure>
 
 ### 4-2. 手技
 

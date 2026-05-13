@@ -10,6 +10,11 @@
 
 ### 2-1. 主因：後脛骨筋腱機能不全（PTTD）
 
+<figure class="figure-schema" markdown>
+![後脛骨筋腱（PTT）の走行](../../assets/images/posterior-tibial-tendon.png)
+<figcaption>後脛骨筋腱は内果後方を回って舟状骨・楔状骨に付着し、内側縦アーチを保持する。AAFD では本腱の変性・断裂が連鎖破綻のスタートとなる。</figcaption>
+</figure>
+
 - 後脛骨筋腱（PTT）の変性・部分断裂・完全断裂
 - 加齢、過剰使用、血流不良域（zone of avascularity）の存在
 - リスク因子: **女性、肥満、糖尿病、高血圧、関節リウマチ、ステロイド長期使用**
