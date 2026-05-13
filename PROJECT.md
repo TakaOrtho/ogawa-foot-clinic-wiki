@@ -9,6 +9,7 @@ deadline: null
 repo: https://github.com/TakaOrtho/ogawa-foot-clinic-wiki
 site: https://takaortho.github.io/ogawa-foot-clinic-wiki/
 local_path: projects/clinical/ogawa-foot-clinic-wiki/
+structure_version: 2  # 2026-05-13: 看護師/PT別ページを廃止し、5サブカテゴリ（病態/診断/保存/手術/後療法）に再編
 ---
 
 # PRJ-018 足の外科 学習ウィキ
@@ -25,11 +26,11 @@ local_path: projects/clinical/ogawa-foot-clinic-wiki/
     2. 外側側副靱帯損傷（Lateral Ankle Ligament Injury）
     3. 外反母趾（Hallux Valgus）
     4. 変形性足関節症（Ankle Osteoarthritis）
-- **対象読者（疾患ごと）**:
-    - 医療従事者向け（病態・診断・治療・術式）
-    - 看護師向け（周術期管理・観察・退院指導）
-    - 理学療法士向け（術後リハビリプロトコル）
-    - 患者さん向け（やさしい解説）
+- **構成（疾患ごと）**:
+    - 医療従事者向け（看護師・PT・医師を統合した1系統）
+        - **病態** / **診断** / **保存治療** / **手術治療** / **後療法**（5サブカテゴリ）
+        - ※ 看護師の周術期管理・観察項目、PT のリハビリプロトコルは「後療法」に統合
+    - 患者さん向け（やさしい解説、疾患ごとに1ページ）
 - **媒体**: GitHub Pages（MkDocs Material）、自動デプロイ
 
 ---
@@ -100,10 +101,16 @@ ogawa-foot-clinic-wiki/
     ├── stylesheets/extra.css     # ブランド（紺#1F3A5F アクセント）
     ├── clinical/                 # 医療従事者向け
     │   ├── index.md
-    │   ├── ankle-instability/         ★ 完全版
-    │   ├── lateral-ligament-injury/   骨子
-    │   ├── hallux-valgus/             骨子
-    │   └── ankle-osteoarthritis/      骨子
+    │   ├── ankle-instability/    # ★ 完全版
+    │   │   ├── index.md          (概要)
+    │   │   ├── pathology.md      (病態)
+    │   │   ├── diagnosis.md      (診断)
+    │   │   ├── conservative.md   (保存治療)
+    │   │   ├── surgical.md       (手術治療)
+    │   │   └── postop.md         (後療法：周術期管理＋リハビリ統合)
+    │   ├── lateral-ligament-injury/    # 骨子（同じ5ファイル構成）
+    │   ├── hallux-valgus/              # 骨子（同じ5ファイル構成）
+    │   └── ankle-osteoarthritis/       # 骨子（同じ5ファイル構成）
     └── patient/                  # 患者さん向け
         ├── index.md
         ├── ankle-instability.md       ★ 完全版
@@ -116,12 +123,23 @@ ogawa-foot-clinic-wiki/
 
 ## コンテンツ進捗チェックリスト
 
-| 疾患 | 医療従事者（概要） | 看護師向け | PT向け | 患者向け |
-|------|:---:|:---:|:---:|:---:|
-| 足関節不安定症 | ✅ 完全 | ✅ 完全 | ✅ 完全 | ✅ 完全 |
-| 外側側副靱帯損傷 | 🟡 骨子 | 🟡 骨子 | 🟡 骨子 | 🟡 骨子 |
-| 外反母趾 | 🟡 骨子 | 🟡 骨子 | 🟡 骨子 | 🟡 骨子 |
-| 変形性足関節症 | 🟡 骨子 | 🟡 骨子 | 🟡 骨子 | 🟡 骨子 |
+### 医療従事者向け（5サブカテゴリ）
+
+| 疾患 | 病態 | 診断 | 保存治療 | 手術治療 | 後療法 |
+|------|:---:|:---:|:---:|:---:|:---:|
+| 足関節不安定症 | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 外側側副靱帯損傷 | 🟡 | 🟡 | 🟡 | 🟡 | 🟡 |
+| 外反母趾 | 🟡 | 🟡 | 🟡 | 🟡 | 🟡 |
+| 変形性足関節症 | 🟡 | 🟡 | 🟡 | 🟡 | 🟡 |
+
+### 患者さん向け
+
+| 疾患 | 状態 |
+|------|:---:|
+| 足関節不安定症 | ✅ 完全 |
+| 外側側副靱帯損傷 | 🟡 骨子 |
+| 外反母趾 | 🟡 骨子 |
+| 変形性足関節症 | 🟡 骨子 |
 
 凡例: ✅ 完全版 ／ 🟡 骨子（要拡張） ／ ⬜ 未着手
 
@@ -154,6 +172,7 @@ ogawa-foot-clinic-wiki/
 
 ## 履歴
 
+- **2026-05-13**: **構成リファクタ（structure v2）** — 「看護師向け」「PT向け」の対象別ページを廃止し、医療従事者向けを **病態 / 診断 / 保存治療 / 手術治療 / 後療法** の5サブカテゴリに再編。看護師の周術期管理・観察項目、PT のリハビリプロトコルは「後療法」セクションに統合
 - **2026-05-13**: GitHub リポジトリ作成・初回 push・GitHub Pages 公開（HTTP 200 確認済み）
 - **2026-05-12**: MkDocs Material プロジェクト初期化、足関節不安定症 完全版作成、他3疾患の骨子作成
 - **2026-05-12**: 看護師から学習サイト構築の依頼受領
