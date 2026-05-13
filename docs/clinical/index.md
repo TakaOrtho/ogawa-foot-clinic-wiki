@@ -43,7 +43,7 @@
     [保存治療](ankle-osteoarthritis/conservative.md) ／
     [手術治療と後療法](ankle-osteoarthritis/surgical.md)
 
-- :material-foot-print-outline: **扁平足**（Adult Acquired Flatfoot Deformity）
+- :material-shoe-print: **扁平足**（Adult Acquired Flatfoot Deformity）
 
     ---
     Flexible は靱帯再建、Rigid は骨切り/固定。共通後療法 6週非荷重+3か月サポーター。

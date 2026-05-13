@@ -1,49 +1,74 @@
 # 足の外科 学習ウィキ
 
-足関節・足部疾患の **病態・診断・治療・後療法** を体系的にまとめた教育サイトです。
-看護師・理学療法士・研修医・患者さんがそれぞれの目的に応じて参照できるよう、
-**医療従事者向け** と **患者さん向け** の2系統で構成しています。
+<div class="hero" markdown>
+<div class="hero__copy" markdown>
 
----
+# 足の不安に、答えを。
 
-## このサイトの構成
+足首・足の病気と治療を、**患者さんにも医療スタッフにも** わかりやすくまとめました。
+受診前のご不安、術前後の心配、現場での確認 — まずはここを開いてみてください。
 
-<div class="grid cards" markdown>
+</div>
+<div class="hero__image">
+<img src="assets/images/hero-foot-anatomy.png" alt="足部の解剖イラスト">
+</div>
+</div>
 
-- :material-stethoscope: **医療従事者向け**
+<div class="cta-grid" markdown>
 
-    ---
+<a class="cta cta--patient" href="patient/index.md">
+<span class="cta__title">患者さん・ご家族の方</span>
+<span class="cta__sub">病気のしくみ、治療の流れ、入院・手術後の生活をやさしくご案内します。</span>
+<span class="cta__arrow">こちらへ →</span>
+</a>
 
-    各疾患を **病態 → 診断 → 保存治療 → 手術治療 → 後療法** の順で整理。
-    看護師の周術期管理・観察ポイント、理学療法士の術後リハビリプロトコルは
-    **「後療法」** セクションに統合しています。
-
-    [医療従事者向けトップへ →](clinical/index.md)
-
-- :material-account-heart: **患者さん向け**
-
-    ---
-
-    病気のしくみと治療の選択肢、手術前後の生活、リハビリの目安をやさしい言葉で解説。
-    主治医からの説明を補完する目的で利用してください。
-
-    [患者さん向けトップへ →](patient/index.md)
+<a class="cta cta--pro" href="clinical/index.md">
+<span class="cta__title">医療従事者の方</span>
+<span class="cta__sub">病態・診断、保存治療、手術術式、周術期管理を体系的に整理したリファレンス。</span>
+<span class="cta__arrow">こちらへ →</span>
+</a>
 
 </div>
 
 ---
 
-## 取り扱う疾患（4疾患）
+## 取り扱う疾患
 
-| 疾患 | 医療従事者向け | 患者さん向け |
-|------|:---:|:---:|
-| 足関節不安定症（外側側副靱帯損傷含む） | [✓](clinical/ankle-instability/index.md) | [✓](patient/ankle-instability.md) |
-| 外反母趾 | [✓](clinical/hallux-valgus/index.md) | [✓](patient/hallux-valgus.md) |
-| 変形性足関節症 | [✓](clinical/ankle-osteoarthritis/index.md) | [✓](patient/ankle-osteoarthritis.md) |
-| 扁平足 | [✓](clinical/flatfoot/index.md) | [✓](patient/flatfoot.md) |
+<div class="grid cards" markdown>
 
-!!! note "コンテンツ"
-    全4疾患について、医療従事者向け（病態・診断 / 保存治療 / 手術治療と後療法）と患者向けを完全版で提供しています。臨床現場のフィードバックを踏まえて継続的に更新します。
+- :material-rotate-3d-variant: **足関節不安定症・足首の捻挫**
+
+    ---
+    捻挫を繰り返してぐらつく、年齢で足首がゆるんできた、という方へ。
+
+    [患者さん向け](patient/ankle-instability.md) ／
+    [医療従事者向け](clinical/ankle-instability/index.md)
+
+- :material-foot-print: **外反母趾**
+
+    ---
+    親指の付け根が「く」の字に曲がり、靴を履くと痛い方へ。MICA / DMMO の解説。
+
+    [患者さん向け](patient/hallux-valgus.md) ／
+    [医療従事者向け](clinical/hallux-valgus/index.md)
+
+- :material-bone: **変形性足関節症**
+
+    ---
+    過去のけがで足首の軟骨がすり減ってきた方へ。手術3種類の選び方。
+
+    [患者さん向け](patient/ankle-osteoarthritis.md) ／
+    [医療従事者向け](clinical/ankle-osteoarthritis/index.md)
+
+- :material-shoe-print: **扁平足**
+
+    ---
+    土踏まずが落ち、内くるぶしの内側が痛い方へ。Flexible / Rigid 別の治療。
+
+    [患者さん向け](patient/flatfoot.md) ／
+    [医療従事者向け](clinical/flatfoot/index.md)
+
+</div>
 
 ---
 
@@ -59,7 +84,6 @@
 
 ---
 
-!!! warning "免責事項"
-    本サイトは医療従事者・患者の学習を目的とした一般情報であり、個別の診断・治療判断に置き換わるものではありません。
-    実際の診療は必ず主治医・担当医療チームの指示に従ってください。
-    詳細は [免責事項](disclaimer.md) を参照。
+!!! warning "ご利用にあたって（免責事項）"
+    本サイトは医療従事者・患者さんの学習を目的とした一般情報であり、個別の診断・治療判断に置き換わるものではありません。
+    実際の診療は必ず主治医・担当医療チームの指示に従ってください。詳細は [免責事項](disclaimer.md) を参照。
