@@ -1,12 +1,12 @@
-# 足の外科 学習ウィキ
+# OGAWA Foot Clinic — 足の外科 解説サイト
 
 <div class="hero" markdown>
 <div class="hero__copy" markdown>
 
-# 足の不安に、答えを。
+# 足の不安に、お答えします。
 
 足首・足の病気と治療を、**患者さんにも医療スタッフにも** わかりやすくまとめました。
-受診前のご不安、術前後の心配、現場での確認 — まずはここを開いてみてください。
+整形外科専門医・小川貴久（足の外科）が編集する、診療と教育のための解説サイトです。
 
 </div>
 <div class="hero__image">
@@ -16,13 +16,13 @@
 
 <div class="cta-grid" markdown>
 
-<a class="cta cta--patient" href="patient/index.md">
+<a class="cta cta--patient" href="patient/">
 <span class="cta__title">患者さん・ご家族の方</span>
 <span class="cta__sub">病気のしくみ、治療の流れ、入院・手術後の生活をやさしくご案内します。</span>
 <span class="cta__arrow">こちらへ →</span>
 </a>
 
-<a class="cta cta--pro" href="clinical/index.md">
+<a class="cta cta--pro" href="clinical/">
 <span class="cta__title">医療従事者の方</span>
 <span class="cta__sub">病態・診断、保存治療、手術術式、周術期管理を体系的に整理したリファレンス。</span>
 <span class="cta__arrow">こちらへ →</span>
