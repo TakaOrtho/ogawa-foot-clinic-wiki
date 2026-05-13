@@ -1,7 +1,7 @@
 # 外反母趾：手術治療
 
 !!! abstract "要点"
-    - 当院標準術式は **MICA（Minimally Invasive Chevron-Akin）** — 高速回転バーで経皮的に第1中足骨を骨切り、スクリュー固定
+    - 当院標準術式は **MICA（Minimally Invasive Chevron-Akin）** — **低速回転バー** で経皮的に第1中足骨を骨切り、スクリュー固定
     - **第2・3 MTP の中足骨頭痛を合併** している場合は **DMMO（Distal Metatarsal Minimally invasive Osteotomy）** を同時併施。固定はしない
     - 重症・hypermobility 合併には **Lapidus**、関節破壊例には **MTP 固定** を選択
 
@@ -30,7 +30,8 @@
 
 ### 3-1. 概要
 
-- 経皮的（percutaneous）に **高速回転バー**（Shannon バー、Wedge バー）で骨切り
+- 経皮的（percutaneous）に **低速回転バー**（Shannon バー、Wedge バー）で骨切り
+- **熱壊死を避けるため低速回転**（高速ドリルは禁忌）。生理食塩水での冷却を併用
 - 透視下に整復、スクリュー（headless compression screw 2 本）で固定
 - 必要に応じて Akin 骨切り（母趾基節骨）併施
 
@@ -61,7 +62,7 @@
 ### 3-4. MICA の留意点
 
 - **学習曲線あり**（透視下操作、バー操作）
-- バー使用時は **骨壊死回避** のため冷却・低速・断続使用
+- バー使用時は **骨の熱壊死回避** のため **低速回転・生理食塩水冷却・断続使用** を厳守
 - 透視時間が長くなりやすい（術者・患者の被曝管理）
 
 ---
