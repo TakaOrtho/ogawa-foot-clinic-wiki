@@ -1,6 +1,6 @@
 ---
 id: PRJ-018
-title: 足の外科 学習ウィキ（医療従事者・患者向け教育サイト）
+title: OGAWA Foot Clinic — 足の外科 解説サイト（医療従事者・患者向け教育サイト）
 category: clinical
 status: 進行中
 created: 2026-05-12
