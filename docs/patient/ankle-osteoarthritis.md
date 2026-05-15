@@ -120,6 +120,11 @@ flowchart TB
 
 ## 5. 手術後の生活
 
+<figure class="figure-schema" markdown>
+![松葉杖を使った非荷重歩行のイメージ](../assets/images/crutches-nonweightbearing.png)
+<figcaption>骨切り術・関節固定術のあとは、手術した足を完全に浮かせて、松葉杖2本で体重を支えて移動します。慣れるまで少し練習が必要です。</figcaption>
+</figure>
+
 ### 5-1. 骨切り術のあと
 
 - 6週間 **足をつきません**（非荷重、松葉杖）
