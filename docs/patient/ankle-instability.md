@@ -181,7 +181,7 @@ gantt
 
 <figure class="figure-schema" markdown>
 ![階段昇降のルール](../assets/images/stair-rule.png)
-<figcaption>左：上りは「健側（けがをしていない方）から」　／　右：下りは「患側（手術した方）から」　— 「Good goes up, Bad goes down」と覚えてください。</figcaption>
+<figcaption>左：上りは「健側（けがをしていない方）から」　／　右：下りは「患側（手術した方）から」　— **「いい足は上、悪い足は下」**（上るときはいい足から、下りるときは悪い足から）と覚えてください。</figcaption>
 </figure>
 
 - **上り**：けがをしていないほうの足から先に出します
