@@ -128,8 +128,8 @@
 ### 6-3. 歩き方：**足の裏全体で着地、つま先で蹴り出さない**
 
 <figure class="figure-schema" markdown>
-![歩き方ルール：足底全体接地 OK、踏み返し NG](../assets/images/walking-no-pushoff.png)
-<figcaption>左：足の裏全体で接地する歩き方（OK）　／　右：つま先で蹴り出す「踏み返し」（NG） — 矯正した骨に負担をかけないため、最初の 6 週間は踏み返しを避けてください。</figcaption>
+![踏み返しを避ける歩き方](../assets/images/walking-no-pushoff.png)
+<figcaption>左：手術した足を後ろから持ち上げるとき、**足の裏全体で地面から離れる**（OK）　／　右：つま先（親指の付け根）が反って、最後に蹴り出してしまう「**踏み返し**」（NG・矢印部分） — 矯正した骨に負担をかけないため、最初の 6 週間は踏み返しを避けてください。</figcaption>
 </figure>
 
 !!! warning "歩き方ルール"
