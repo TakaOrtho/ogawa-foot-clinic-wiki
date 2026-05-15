@@ -191,6 +191,57 @@
 }
 
 /* ------------------------------------------------------------
+ * Mermaid 図のフォント調整（Gantt 等の可読性向上）
+ * ------------------------------------------------------------ */
+
+.md-typeset .mermaid {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.md-typeset .mermaid svg {
+  max-width: 100%;
+  height: auto;
+}
+
+.md-typeset .mermaid text,
+.md-typeset .mermaid .label,
+.md-typeset .mermaid .nodeLabel,
+.md-typeset .mermaid .edgeLabel,
+.md-typeset .mermaid .taskText,
+.md-typeset .mermaid .taskTextOutsideLeft,
+.md-typeset .mermaid .taskTextOutsideRight,
+.md-typeset .mermaid .titleText,
+.md-typeset .mermaid .sectionTitle,
+.md-typeset .mermaid .tick text {
+  font-size: 15px !important;
+  font-weight: 500;
+}
+
+.md-typeset .mermaid .titleText {
+  font-size: 18px !important;
+  font-weight: 700;
+}
+
+.md-typeset .mermaid .sectionTitle {
+  font-size: 15px !important;
+  font-weight: 600;
+}
+
+@media screen and (max-width: 768px) {
+  .md-typeset .mermaid text,
+  .md-typeset .mermaid .taskText,
+  .md-typeset .mermaid .taskTextOutsideLeft,
+  .md-typeset .mermaid .taskTextOutsideRight,
+  .md-typeset .mermaid .tick text {
+    font-size: 13px !important;
+  }
+  .md-typeset .mermaid .titleText {
+    font-size: 16px !important;
+  }
+}
+
+/* ------------------------------------------------------------
  * Material grid cards の高さを揃える
  * ------------------------------------------------------------ */
 
