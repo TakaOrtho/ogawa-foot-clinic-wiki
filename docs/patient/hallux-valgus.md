@@ -10,7 +10,7 @@
 
 <figure class="figure-schema" markdown>
 ![外反母趾の変形イメージ](../assets/images/hallux-valgus.png)
-<figcaption>左：正常な足の輪郭　／　右：外反母趾の足（親指が外側に曲がっている）</figcaption>
+<figcaption>左：正常な右足　／　右：外反母趾の右足 — 親指が外側に曲がり、付け根の内側が出っ張っているのが分かります。</figcaption>
 </figure>
 
 ## 1. どんな病気？
