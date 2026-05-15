@@ -140,13 +140,20 @@
 }
 
 .cta {
-  display: block;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
   padding: 1.5rem;
   border-radius: 12px;
   text-decoration: none !important;
   color: #FFFFFF !important;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  height: 100%;
+}
+
+.cta__arrow {
+  margin-top: auto;  /* 矢印を下端に揃える */
 }
 
 .cta:hover {
@@ -178,9 +185,24 @@
 
 .cta__arrow {
   display: inline-block;
-  margin-top: 0.6rem;
+  padding-top: 0.6rem;
   font-size: 0.95rem;
   opacity: 0.9;
+}
+
+/* ------------------------------------------------------------
+ * Material grid cards の高さを揃える
+ * ------------------------------------------------------------ */
+
+.md-typeset .grid.cards > ul {
+  align-items: stretch;
+}
+
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid > .card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 /* ------------------------------------------------------------
