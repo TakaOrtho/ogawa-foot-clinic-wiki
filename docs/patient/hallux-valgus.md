@@ -94,6 +94,12 @@
 - 切った骨を **スクリュー2本** で固定します
 - レントゲン透視を見ながら、正確に進めます
 
+<figure class="figure-schema" markdown>
+![MICA 術後のレントゲン写真（6週・12週・6か月）](../assets/images/mica-postop-xray.jpeg)
+<figcaption>MICA 手術後のレントゲン写真です。左から **術後 6 週・12 週・6 か月** の同じ左足。親指の付け根を斜めに切って整え（2本のスクリューで固定）、必要なら基節骨も短く切って 1 本のスクリューで固定します。数週〜数か月で骨がしっかりつながっていく様子が分かります。<br/>
+出典: Toepfer A, Strässle M. *Foot Ankle Surg* 2022;28:1389–1398 (Fig. 1). [doi:10.1016/j.fas.2022.07.006](https://doi.org/10.1016/j.fas.2022.07.006)（CC BY-NC-ND 4.0）</figcaption>
+</figure>
+
 ### 5-2. DMMO（ディーエムエムオー）— 必要に応じて同時に
 
 - **Distal Metatarsal Minimally invasive Osteotomy** の略
