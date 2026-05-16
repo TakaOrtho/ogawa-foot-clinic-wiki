@@ -71,6 +71,15 @@
 - **学習曲線あり**（透視下操作、バー操作）
 - バー使用時は **骨の熱壊死回避** のため **低速回転・生理食塩水冷却・断続使用** を厳守
 - 透視時間が長くなりやすい（術者・患者の被曝管理）
+- 単一術者シリーズでは **40症例以降に手術時間 <45 min、透視 <100 shots に安定**、HVA 30.6° → 8.5°、IMA 16.2° → 5.4° の補正効果が報告されている[^toepfer2022]
+
+### 3-5. 術後 X 線画像の例（術後 6 週・12 週・6 か月）
+
+<figure class="figure-schema" markdown>
+![MICA 術後の経時的 X 線変化](../../assets/images/mica-postop-xray.jpeg)
+<figcaption>MICA 症例の経時的 X 線変化（左から術後 6 週・12 週・6 か月、左足）。Chevron 骨切りを 2 本のスクリューで、Akin 骨切りを 1 本のスクリューで固定。骨切り部に強固な骨橋（bone bridge）が数週〜数か月で形成される様子が分かる。<br/>
+Source: Toepfer A, Strässle M. *Foot Ankle Surg* 2022;28:1389–1398 (Fig. 1). [doi:10.1016/j.fas.2022.07.006](https://doi.org/10.1016/j.fas.2022.07.006). © 2022 The Author(s). Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).</figcaption>
+</figure>
 
 ---
 
@@ -355,6 +364,10 @@
 - 認知・せん妄リスク
 - 骨癒合遅延（糖尿病・骨粗鬆症）
 - 通院困難 → 訪問看護・通所リハ調整
+
+## 参考文献
+
+[^toepfer2022]: Toepfer A, Strässle M. The percutaneous learning curve of 3rd generation minimally-invasive Chevron and Akin osteotomy (MICA). *Foot Ankle Surg.* 2022;28(8):1389–1398. doi:[10.1016/j.fas.2022.07.006](https://doi.org/10.1016/j.fas.2022.07.006). Open access (CC BY-NC-ND 4.0).
 
 ## 関連
 
