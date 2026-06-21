@@ -1,4 +1,4 @@
-# 小川 貴久について
+# 小川貴久医師
 
 <div class="profile-hero" markdown>
 <div class="profile-hero__copy" markdown>

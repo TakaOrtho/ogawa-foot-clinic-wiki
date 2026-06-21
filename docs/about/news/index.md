@@ -33,4 +33,4 @@
 
 </div>
 
-[小川貴久について戻る](../../about.md){ .md-button }
+[小川貴久医師に戻る](../../about.md){ .md-button }
