@@ -128,19 +128,6 @@
   border-radius: 8px;
 }
 
-/* 来訪者カウンター（ページ最下部・最小表示） */
-.visitor-counter-minimal {
-  margin-top: 1.75rem;
-  text-align: right;
-}
-
-.visitor-counter-minimal img {
-  display: inline-block;
-  height: 14px;
-  width: auto;
-  opacity: 0.75;
-}
-
 /* ------------------------------------------------------------
  * CTA カード（患者向け／医療従事者向けの大きな入口）
  * ------------------------------------------------------------ */

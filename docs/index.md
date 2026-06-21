@@ -86,9 +86,3 @@
 !!! warning "ご利用にあたって（免責事項）"
     本サイトは医療従事者・患者さんの学習を目的とした一般情報であり、個別の診断・治療判断に置き換わるものではありません。
     実際の診療は必ず主治医・担当医療チームの指示に従ってください。詳細は [免責事項](disclaimer.md) を参照。
-
-<div class="visitor-counter-minimal" markdown>
-<a href="https://info.flagcounter.com/ogawafc1" target="_blank" rel="noopener noreferrer">
-  <img src="https://s01.flagcounter.com/count2/ogawafc1/bg_FFFFFF/txt_888888/border_FFFFFF/pageviews_1/viewers_0/" alt="アクセス数" loading="lazy">
-</a>
-</div>
