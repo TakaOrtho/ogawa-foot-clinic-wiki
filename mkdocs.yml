@@ -84,6 +84,9 @@ plugins:
         - en
 
 extra:
+  analytics:
+    provider: google
+    property: G-T0Z53T6RS9
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/TakaOrtho/ogawa-foot-clinic-wiki
