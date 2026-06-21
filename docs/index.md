@@ -14,6 +14,13 @@
 </div>
 </div>
 
+<div class="visitor-counter">
+  <p class="visitor-counter__label">累計アクセス（目安）</p>
+  <a href="https://info.flagcounter.com/ogawafc1" target="_blank" rel="noopener noreferrer">
+    <img src="https://s01.flagcounter.com/count2/ogawafc1/bg_FFFFFF/txt_000000/border_CCCCCC/pageviews_1/viewers_0/" alt="累計アクセス（目安）" loading="lazy">
+  </a>
+</div>
+
 <div class="cta-grid" markdown>
 
 <a class="cta cta--patient" href="patient/">
