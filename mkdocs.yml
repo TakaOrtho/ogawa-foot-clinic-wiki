@@ -132,4 +132,11 @@ nav:
       - 外反母趾: patient/hallux-valgus.md
       - 変形性足関節症: patient/ankle-osteoarthritis.md
       - 扁平足: patient/flatfoot.md
+  - 小川貴久について:
+      - about.md
+      - 最近のニュース:
+          - about/news/index.md
+          - スポーツから整形外科へ: about/news/sports.md
+          - 公衆衛生・データから見た医療: about/news/public-health-data.md
+          - 海外で学んだ足の外科: about/news/global-foot-ankle.md
   - 免責事項: disclaimer.md

@@ -74,13 +74,12 @@
 
 ## 編集者
 
-- **小川 貴久（Takahisa OGAWA）** M.D., MPH, Ph.D.
-- 整形外科専門医／足の外科
-- 修了フェローシップ:
-    - Massachusetts General Hospital（Foot & Ankle Research & Innovation Lab）
-    - Macquarie University Hospital（Limb Reconstruction Center）
-    - Dalhousie University（Foot & Ankle Fellowship）
-    - AOFAS Travelling Fellowship 2024
+**小川 貴久（Takahisa OGAWA）** M.D., MPH, Ph.D.  
+整形外科専門医／足の外科
+
+高校時代はアメリカンフットボール、大学ではラグビーに取り組み、その後ハーバード大学で公衆衛生と医療データを学びました。国内外での足の外科研修と臨床経験をもとに、患者さんが自分の状態を理解し、納得して治療を選べる説明を心がけています。
+
+[小川貴久について詳しく見る](about.md){ .md-button .md-button--primary }
 
 ---
 
