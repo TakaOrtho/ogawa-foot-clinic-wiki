@@ -7,7 +7,7 @@
 
 </div>
 <figure class="profile-hero__figure">
-  <img src="../assets/images/profile/profile-portrait.jpg" alt="小川貴久のプロフィール写真" loading="lazy">
+  <img src="../assets/images/profile/profile-portrait.png" alt="小川貴久のプロフィール写真" loading="lazy">
 </figure>
 </div>
 
