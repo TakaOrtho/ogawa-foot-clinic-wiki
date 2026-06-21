@@ -128,29 +128,17 @@
   border-radius: 8px;
 }
 
-/* 来訪者カウンター（トップページ） */
-.visitor-counter {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  margin: 0 0 1.5rem;
-  padding: 0.75rem 1rem;
-  background: #F8FAFC;
-  border: 1px solid #E4E8EF;
-  border-radius: 8px;
+/* 来訪者カウンター（ページ最下部・最小表示） */
+.visitor-counter-minimal {
+  margin-top: 1.75rem;
+  text-align: right;
 }
 
-.visitor-counter__label {
-  margin: 0;
-  font-size: 0.85rem;
-  color: #666;
-  white-space: nowrap;
-}
-
-.visitor-counter img {
-  display: block;
-  height: 18px;
+.visitor-counter-minimal img {
+  display: inline-block;
+  height: 14px;
   width: auto;
+  opacity: 0.75;
 }
 
 /* ------------------------------------------------------------
