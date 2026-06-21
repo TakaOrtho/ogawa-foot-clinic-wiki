@@ -8,6 +8,10 @@
   <img src="../../../assets/images/profile/story-global-foot.png" alt="海外での足の外科研修" loading="lazy">
 </figure>
 
+<figure class="story-hero story-hero--wide">
+  <img src="../../../assets/images/profile/story-global-aofas.jpg" alt="AOFAS Travelling Fellowship の活動写真" loading="lazy">
+</figure>
+
 オーストラリア（Macquarie University Hospital, Limb Reconstruction Center）とカナダ（Dalhousie University, Foot & Ankle Fellowship）で足の外科研修を修了しました。AOFAS Travelling Fellowship 2024 では、北米の足の外科の最前線も見学しています。
 
 ## 海外で学んだこと
