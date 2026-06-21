@@ -8,7 +8,7 @@
   <img src="../../assets/images/profile/story-global-foot.png" alt="海外での足の外科研修" loading="lazy">
 </figure>
 
-佐久医療センターでの臨床を経て、オーストラリア（Macquarie University Hospital, Limb Reconstruction Center）とカナダ（Dalhousie University, Foot & Ankle Fellowship）で足の外科研修を修了しました。AOFAS Travelling Fellowship 2024 では、北米の足の外科の最前線も見学しています。
+オーストラリア（Macquarie University Hospital, Limb Reconstruction Center）とカナダ（Dalhousie University, Foot & Ankle Fellowship）で足の外科研修を修了しました。AOFAS Travelling Fellowship 2024 では、北米の足の外科の最前線も見学しています。
 
 ## 海外で学んだこと
 
@@ -23,7 +23,7 @@
 
 ## 日本に帰国してから
 
-現在は佐久地域を拠点に、複数の病院で足の外科診療に取り組んでいます。海外で培った患者さん本位の説明、治療選択、リハビリの考え方を、日本の医療環境の中で実践しています。
+現在は複数の病院で足の外科診療に取り組んでいます。海外で培った患者さん本位の説明、治療選択、リハビリの考え方を、日本の医療環境の中で実践しています。
 
 このサイトも、その延長線上にあります。患者さんには自分の足の状態を理解するための情報を、医療従事者には足の外科診療の全体像を共有するための情報を、わかりやすく整理することを目指しています。
 
