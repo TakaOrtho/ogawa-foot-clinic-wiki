@@ -5,7 +5,7 @@
 <p class="news-meta"><time datetime="2026-06-10">2026年6月10日</time> · 活動報告</p>
 
 <figure class="story-hero story-hero--wide">
-  <img src="../../assets/images/profile/story-global-foot.png" alt="海外での足の外科研修" loading="lazy">
+  <img src="../../../assets/images/profile/story-global-foot.png" alt="海外での足の外科研修" loading="lazy">
 </figure>
 
 オーストラリア（Macquarie University Hospital, Limb Reconstruction Center）とカナダ（Dalhousie University, Foot & Ankle Fellowship）で足の外科研修を修了しました。AOFAS Travelling Fellowship 2024 では、北米の足の外科の最前線も見学しています。
@@ -28,7 +28,7 @@
 このサイトも、その延長線上にあります。患者さんには自分の足の状態を理解するための情報を、医療従事者には足の外科診療の全体像を共有するための情報を、わかりやすく整理することを目指しています。
 
 <figure class="story-inline">
-  <img src="../../assets/images/profile/story-accenture.png" alt="活動の一コマ" loading="lazy">
+  <img src="../../../assets/images/profile/story-accenture.png" alt="活動の一コマ" loading="lazy">
 </figure>
 
 ## 患者さんへのメッセージ

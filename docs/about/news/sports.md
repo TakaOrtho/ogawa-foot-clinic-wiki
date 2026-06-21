@@ -5,7 +5,7 @@
 <p class="news-meta"><time datetime="2026-06-21">2026年6月21日</time> · 活動報告</p>
 
 <figure class="story-hero">
-  <img src="../../assets/images/profile/story-sports.jpg" alt="スポーツ経験" loading="lazy">
+  <img src="../../../assets/images/profile/story-sports.jpg" alt="スポーツ経験" loading="lazy">
 </figure>
 
 高校時代はアメリカンフットボール、大学ではラグビーに取り組みました。スポーツを通じて、チームワークの大切さと、身体をどう使うかを学びました。

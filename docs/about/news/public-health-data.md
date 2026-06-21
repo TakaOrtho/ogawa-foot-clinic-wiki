@@ -5,7 +5,7 @@
 <p class="news-meta"><time datetime="2026-06-15">2026年6月15日</time> · 活動報告</p>
 
 <figure class="story-hero">
-  <img src="../../assets/images/profile/story-public-health.png" alt="公衆衛生と医療データ" loading="lazy">
+  <img src="../../../assets/images/profile/story-public-health.png" alt="公衆衛生と医療データ" loading="lazy">
 </figure>
 
 ハーバード大学 T.H. Chan School of Public Health / MIT で公衆衛生（MPH）を学び、Fulbright Scholar として医療分野にデータ活用の視点を取り入れました。
