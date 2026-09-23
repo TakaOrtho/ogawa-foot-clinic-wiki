@@ -30,7 +30,7 @@
 
 <figure class="figure-schema" markdown>
 ![外反母趾に伴う第2・3中足骨頭の胼胝（タコ）](../assets/images/hallux-valgus-metatarsal-callus.png)
-<figcaption>外反母趾が進むと、親指で蹴り出せなくなり、**第2・3趾の付け根（中足骨頭）の真下にタコ（胼胝）** ができてきます。これが「足の裏が痛い」原因の一つです。</figcaption>
+<figcaption>外反母趾が進むと、親指で蹴り出せなくなり、第2・3趾の付け根（中足骨頭）の真下にタコ（胼胝）ができてきます。これが「足の裏が痛い」原因の一つです。</figcaption>
 </figure>
 
 → この **「親指の隣の付け根の痛み」が手術を考える大事なサイン** です。
@@ -46,7 +46,7 @@
 
 <figure class="figure-schema" markdown>
 ![軽度・中等度・重度の外反母趾レントゲン比較](../assets/images/hallux-valgus-severity.png)
-<figcaption>左から **軽度・中等度・重度** の外反母趾。同じ右足のレントゲンで、親指の曲がりと付け根の出っ張りが進行していく様子を示しています。</figcaption>
+<figcaption>左から 軽度・中等度・重度 の外反母趾。同じ右足のレントゲンで、親指の曲がりと付け根の出っ張りが進行していく様子を示しています。</figcaption>
 </figure>
 
 | | 軽度 | 中等度 | 重度 |
